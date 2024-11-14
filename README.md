@@ -5,12 +5,6 @@ Welcome to my study notes repository! This repository contains my personal study
 
 Feel free to browse through the notes, use them for your own learning, and contribute if you'd like to share your insights or improvements. However, please note that these notes are shared under a license that allows for learning and sharing but **not** for commercial purposes.
 
-## Structure
-
-- **/Technology**: Notes on different technology topics, frameworks, and tools.
-- **/General**: General study notes on diverse topics.
-- **/Misc**: Miscellaneous notes that do not fit into other categories.
-
 ## How to Use
 
 You are welcome to:
